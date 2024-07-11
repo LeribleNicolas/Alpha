@@ -1,2 +1,3 @@
 # Alpha
-Álvaro
+Álvaro Dorado Navas
+Nicolás Lerible García
